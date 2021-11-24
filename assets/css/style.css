@@ -77,20 +77,17 @@ p {
 
 .benefits {
     margin-right: 20px;
+    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
     background-color: #2589bd;
 }
 
-/*Simplified 3 x benefit classes into single benefits (parent) class*/
-.benefits {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 .benefits h3 {
     margin-bottom: 10px;
