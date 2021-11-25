@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+
+/*styling for the header and navigation links*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +39,7 @@
     margin-left: 25px;
 }
 
+/*general body styling*/
 body {
     background-color: #d9dcd6;
 }
@@ -70,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/*left-hand content including SEO, ORM and SMM*/
 .content {
     width: 75%;
     display: inline-block;
@@ -115,7 +119,7 @@ p {
     font-size: 36px;
 }
 
-
+/*right-hand content including lead generation, brand awareness and cost management*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
