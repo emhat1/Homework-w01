@@ -75,30 +75,6 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    margin-bottom: 32px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #ffffff;
-    background-color: #2589bd;
-}
-
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 
 .search-engine-optimization {
@@ -140,10 +116,34 @@ p {
     max-height: 200px;
 }
 
-h2 {
+.benefits h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.benefits {
+    margin-right: 20px;
+    margin-bottom: 32px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+    background-color: #2589bd;
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
 
 .footer {
     padding: 30px;
